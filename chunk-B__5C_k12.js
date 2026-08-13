@@ -1,0 +1,1 @@
+import{A as GC,un as _m}from"./chunk-EhB_p97E.js";import"./chunk-DanRzVYM.js";import{i as dr}from"./main-EDUNU2K4.js";var e=class t{static ɵfac=function(o){return new(o||t)};static ɵcmp=GC({type:t,selectors:[[`coming-soon-layout`]],decls:1,vars:0,template:function(o,s){o&1&&_m(0,`router-outlet`)},dependencies:[dr],encapsulation:2})};export{e as default};

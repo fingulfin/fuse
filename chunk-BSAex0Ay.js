@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-CP5SeOJS.js`)},{path:`:id`,loadComponent:()=>import(`./chunk-CenOBj-e.js`)}];export{o as default};

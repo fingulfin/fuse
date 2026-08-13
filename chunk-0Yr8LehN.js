@@ -1,1 +1,0 @@
-var o=[{path:``,loadComponent:()=>import(`./chunk-DqINftVR.js`),children:[{path:`:id`,loadComponent:()=>import(`./chunk-DDAjvSiW2.js`)}]}];export{o as default};

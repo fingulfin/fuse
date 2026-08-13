@@ -1,1 +1,0 @@
-import{o as e,s as i,u as p}from"./chunk-BX51_n8x.js";import{n as u}from"./chunk--dmkq3u6.js";function w(o,f,t){let{years:s=0,months:d=0,weeks:n=0,days:r=0,hours:h=0,minutes:p$1=0,seconds:y=0}=f,e$1=p(o,t?.in),c=d||s?u(e$1,d+s*12):e$1,A=r||n?i(c,r+n*7):c,D=(y+(p$1+h*60)*60)*1e3;return e(t?.in||o,+A+D)}export{w as t};

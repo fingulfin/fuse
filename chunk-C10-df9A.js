@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-BgBo3_tv2.js`)}];export{o as default};

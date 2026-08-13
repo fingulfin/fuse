@@ -1,1 +1,0 @@
-import{c as j,o as e}from"./chunk-BX51_n8x.js";import{t as l}from"./chunk--dmkq3u6.js";function D(s,r,o){let{years:c=0,months:e$1=0,weeks:m=0,days:b=0,hours:i=0,minutes:h=0,seconds:f=0}=r,d=j(l(s,e$1+c*12,o),b+m*7,o),S=(f+(h+i*60)*60)*1e3;return e(o?.in||s,+d-S)}export{D as t};

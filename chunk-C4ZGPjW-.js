@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-D0kseRdg.js`)}];export{o as default};

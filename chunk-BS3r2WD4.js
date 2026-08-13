@@ -1,0 +1,1 @@
+var a=[{path:``,pathMatch:`full`,loadComponent:()=>import(`./chunk-BMHjF3FM2.js`)},{path:`folders/:folderId`,loadComponent:()=>import(`./chunk-BMHjF3FM2.js`)}];export{a as default};

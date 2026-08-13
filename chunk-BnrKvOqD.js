@@ -1,0 +1,1 @@
+var t=[{path:``,pathMatch:`full`,loadComponent:()=>import(`./chunk-C6CknR8G2.js`)},{path:`faq`,loadComponent:()=>import(`./chunk--fuvGeo_2.js`)},{path:`support`,loadComponent:()=>import(`./chunk-CHWNvOH82.js`)},{path:`guides`,children:[{path:``,pathMatch:`full`,redirectTo:`getting-started`},{path:`:id`,loadComponent:()=>import(`./chunk-ORPNJqZS2.js`)}]}];export{t as default};

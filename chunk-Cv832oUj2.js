@@ -1,1 +1,0 @@
-var o=[{path:``,pathMatch:`full`,redirectTo:`project`},{path:`project`,loadComponent:()=>import(`./chunk-DXuXaVFQ2.js`)},{path:`analytics`,loadComponent:()=>import(`./chunk-D3Y22wxd2.js`)},{path:`finance`,loadComponent:()=>import(`./chunk-DF0Gsxys.js`)}];export{o as default};

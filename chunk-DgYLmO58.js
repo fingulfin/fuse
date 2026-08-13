@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-Chc8FcEB2.js`)}];export{o as default};

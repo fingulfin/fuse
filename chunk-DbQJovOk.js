@@ -1,1 +1,0 @@
-var o=[{path:``,loadComponent:()=>import(`./chunk-DOiX52Rz.js`)}];export{o as default};

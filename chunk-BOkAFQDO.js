@@ -1,0 +1,1 @@
+var a=[{path:``,pathMatch:`full`,loadComponent:()=>import(`./chunk-DtmqKGb32.js`)},{path:`folders/:folderId`,loadComponent:()=>import(`./chunk-DtmqKGb32.js`)}];export{a as default};

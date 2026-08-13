@@ -1,1 +1,0 @@
-var o=[{path:``,loadComponent:()=>import(`./chunk-NMV9ysQz2.js`)}];export{o as default};

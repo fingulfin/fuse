@@ -1,1 +1,0 @@
-var t=[{path:``,pathMatch:`full`,loadComponent:()=>import(`./chunk-BK8IWXgf2.js`)},{path:`faq`,loadComponent:()=>import(`./chunk-DK2rDEuj2.js`)},{path:`support`,loadComponent:()=>import(`./chunk-CKhKLEKy2.js`)},{path:`guides`,children:[{path:``,pathMatch:`full`,redirectTo:`getting-started`},{path:`:id`,loadComponent:()=>import(`./chunk-B_kAqKG22.js`)}]}];export{t as default};

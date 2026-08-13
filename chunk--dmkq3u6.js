@@ -1,0 +1,1 @@
+import{o as e,u as p}from"./chunk-BX51_n8x.js";function u(e$1,r,n){let t=p(e$1,n?.in);if(isNaN(r))return e(n?.in||e$1,NaN);if(!r)return t;let f=t.getDate(),o=e(n?.in||e$1,t.getTime());o.setMonth(t.getMonth()+r+1,0);return f>=o.getDate()?o:(t.setFullYear(o.getFullYear(),o.getMonth(),f),t)}function l(e,r,n){return u(e,-r,n)}export{u as n,l as t};

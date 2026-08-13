@@ -1,0 +1,1 @@
+var r=[{path:`404`,loadComponent:()=>import(`./chunk-C82PBa8m2.js`)}];export{r as default};

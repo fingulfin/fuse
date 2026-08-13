@@ -1,0 +1,1 @@
+function r(t,n){return(t<0?`-`:``)+Math.abs(t).toString().padStart(n,`0`)}export{r as t};

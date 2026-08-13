@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-CVsGazCe2.js`)}];export{o as default};
